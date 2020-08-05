@@ -1,1 +1,3 @@
 This is the third file personal_quotes
+
+These are changes to the Master
