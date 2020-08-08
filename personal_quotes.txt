@@ -1,3 +1,5 @@
 This is the third file personal_quotes
 These are changes to the Master
 These are changes from brnach
+
+Changes made locally for testing the push
